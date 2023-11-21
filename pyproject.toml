@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "qrcode-bot"
+version = "0.1.0"
+description = ""
+authors = ["Toochka(Tocheniy) <suhanov9208@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
